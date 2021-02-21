@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//Indeed Inc//Indeed for Employers 1//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20210220T005030Z
+DTSTART:20210222T200000Z
+DTEND:20210222T203000Z
+SUMMARY:Interview request for James Florea
+UID:b59da58481d52fca921833d4e7de299279771e3d0078@indeed.com
+ORGANIZER:mailto:noreply@indeed.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tudorjflorea@gmail.com:mailto:tudorjflorea@gmail.com
+DESCRIPTION:Hello James:\n\nWe have reviewed your resume and would like to schedule a phone interview with you.  Please advise if any of the suggested times will work for you.  If none are convenient\, please advise 3-4 times that are.  Thank you and have a wonderful weekend.\n\nSincerely\, \nTalent Acquisistions Team
+LAST-MODIFIED:20210220T005030Z
+LOCATION:3108447403
+SEQUENCE:1
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
